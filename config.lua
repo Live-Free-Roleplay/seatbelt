@@ -1,6 +1,8 @@
 -- Do not edit config.default.lua
 -- Copy config.default.lua and rename the copy to config.lua
 
+-- hi
+
 --- Configuration variables
 --- @type {}
 Config = {}
